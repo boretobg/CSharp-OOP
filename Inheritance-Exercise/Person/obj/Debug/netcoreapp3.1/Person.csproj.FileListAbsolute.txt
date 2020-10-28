@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
