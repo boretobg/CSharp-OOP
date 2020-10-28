@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.genruntimeconfig.cache

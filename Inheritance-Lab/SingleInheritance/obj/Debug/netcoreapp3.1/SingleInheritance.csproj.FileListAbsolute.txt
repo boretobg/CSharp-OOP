@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Inheritance-Lab\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache
