@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\bin\Debug\netcoreapp3.1\SalaryIncrease.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\SalaryIncrease\obj\Debug\netcoreapp3.1\SalaryIncrease.genruntimeconfig.cache

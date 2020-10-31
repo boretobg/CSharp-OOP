@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\bin\Debug\netcoreapp3.1\ValidationOfData.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Lab\ValidationOfData\obj\Debug\netcoreapp3.1\ValidationOfData.genruntimeconfig.cache
