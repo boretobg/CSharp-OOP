@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.genruntimeconfig.cache

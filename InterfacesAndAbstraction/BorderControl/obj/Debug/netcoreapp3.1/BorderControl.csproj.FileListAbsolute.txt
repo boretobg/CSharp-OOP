@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
