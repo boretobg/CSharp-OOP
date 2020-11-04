@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Encapsulation-Exercise\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
