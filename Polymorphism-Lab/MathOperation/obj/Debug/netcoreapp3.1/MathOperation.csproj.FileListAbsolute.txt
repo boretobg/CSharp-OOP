@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.genruntimeconfig.cache
