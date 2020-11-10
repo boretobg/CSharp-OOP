@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\bin\Debug\netcoreapp3.1\ConvertToDouble.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\bin\Debug\netcoreapp3.1\ConvertToDouble.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\bin\Debug\netcoreapp3.1\ConvertToDouble.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\bin\Debug\netcoreapp3.1\ConvertToDouble.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\bin\Debug\netcoreapp3.1\ConvertToDouble.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\bin\Debug\netcoreapp3.1\ConvertToDouble.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ConvertToDouble\obj\Debug\netcoreapp3.1\ConvertToDouble.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\bin\Debug\netcoreapp3.1\CustomException.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\CustomException\obj\Debug\netcoreapp3.1\CustomException.genruntimeconfig.cache

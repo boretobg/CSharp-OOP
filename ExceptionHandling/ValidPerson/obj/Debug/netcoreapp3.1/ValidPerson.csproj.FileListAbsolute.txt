@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.genruntimeconfig.cache

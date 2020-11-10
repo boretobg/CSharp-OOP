@@ -12,6 +12,7 @@ namespace FixingVol2
             num1 = 60;
             num2 = 30;
             
+
             try
             {
                 if (num1 * num2 > 255)
