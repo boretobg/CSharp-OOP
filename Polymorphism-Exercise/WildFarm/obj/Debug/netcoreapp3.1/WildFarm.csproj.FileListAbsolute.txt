@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache

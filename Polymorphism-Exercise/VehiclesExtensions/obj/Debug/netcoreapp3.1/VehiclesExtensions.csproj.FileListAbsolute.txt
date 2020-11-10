@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\bin\Debug\netcoreapp3.1\VehiclesExtensions.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\bin\Debug\netcoreapp3.1\VehiclesExtensions.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\bin\Debug\netcoreapp3.1\VehiclesExtensions.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\bin\Debug\netcoreapp3.1\VehiclesExtensions.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\bin\Debug\netcoreapp3.1\VehiclesExtensions.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\bin\Debug\netcoreapp3.1\VehiclesExtensions.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Polymorphism-Exercise\VehiclesExtensions\obj\Debug\netcoreapp3.1\VehiclesExtensions.genruntimeconfig.cache
