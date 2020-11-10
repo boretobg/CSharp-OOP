@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.genruntimeconfig.cache

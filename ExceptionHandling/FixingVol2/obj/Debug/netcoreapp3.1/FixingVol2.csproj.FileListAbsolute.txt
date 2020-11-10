@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\bin\Debug\netcoreapp3.1\FixingVol2.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\bin\Debug\netcoreapp3.1\FixingVol2.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\bin\Debug\netcoreapp3.1\FixingVol2.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\bin\Debug\netcoreapp3.1\FixingVol2.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\bin\Debug\netcoreapp3.1\FixingVol2.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\bin\Debug\netcoreapp3.1\FixingVol2.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ExceptionHandling\FixingVol2\obj\Debug\netcoreapp3.1\FixingVol2.genruntimeconfig.cache
