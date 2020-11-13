@@ -4,16 +4,14 @@ using System.Text;
 
 namespace Restaurant
 {
-    class Coffee : HotBeverage
+    public class Coffee : HotBeverage
     {
-        public double CoffeeMilliliters { get; set; }
-        public decimal CoffeePrice { get; set; }
-        public double Caffeine { get; set; }
-        public Coffee(string name, decimal price, double milliliters, double caffeine) : base(name, price, milliliters)
+        public Coffee(string name, double caffeine) : base(name, 0, 0)
         {
-            this.CoffeeMilliliters = 50;
-            this.CoffeePrice = 3.50M;
             this.Caffeine = caffeine;
         }
+        public override decimal Price { get => 3.50m; }
+        public override double Milliliters { get => 50; }
+        public virtual double Caffeine { get; set; }
     }
 }

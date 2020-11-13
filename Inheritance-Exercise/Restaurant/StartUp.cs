@@ -6,7 +6,7 @@ namespace Restaurant
     {
         public static void Main(string[] args)
         {
-
+            
         }
     }
 }

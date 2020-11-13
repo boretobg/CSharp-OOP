@@ -4,11 +4,12 @@ using System.Text;
 
 namespace Restaurant
 {
-    class Fish : MainDish
+    public class Fish : MainDish
     {
-        public Fish(string name, decimal price, double grams) : base(name, price, grams)
+        public Fish(string name, decimal price) : base(name, price, 0)
         {
-            this.Grams = 22;
+
         }
+        public override double Grams { get => 22; } 
     }
 }

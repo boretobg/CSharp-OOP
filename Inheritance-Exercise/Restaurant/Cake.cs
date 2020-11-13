@@ -4,13 +4,15 @@ using System.Text;
 
 namespace Restaurant
 {
-    class Cake : Dessert
+    public class Cake : Dessert
     {
-        public Cake(string name, decimal price, double grams, double calories) : base(name, price, grams, calories)
+        public Cake(string name) : base(name, 0, 0, 0)
         {
-            this.Grams = 250;
-            this.Price = 5;
-            this.Calories = 1000;
+            this.Name = name;
         }
+        public override decimal Price { get => 5; }
+        public override double Grams { get => 250; }
+        public override double Calories { get => 1000; }
+
     }
 }
