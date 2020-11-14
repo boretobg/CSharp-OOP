@@ -7,15 +7,9 @@
         public Employee(string id) : base(id)
         {
         }
-
-        public override void Sleep()
+        public virtual string Sleep()
         {
-            // sleep...
-        }
-
-        public override void Recharge()
-        {
-            throw new InvalidOperationException("Employees cannot recharge");
+            return "sleeping";
         }
         
     }
