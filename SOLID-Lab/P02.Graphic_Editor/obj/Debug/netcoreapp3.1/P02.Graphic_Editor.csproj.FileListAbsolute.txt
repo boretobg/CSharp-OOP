@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache

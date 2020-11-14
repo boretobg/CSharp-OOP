@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\SOLID-Lab\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.genruntimeconfig.cache
