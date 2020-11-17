@@ -5,7 +5,7 @@ namespace AnimalFarm
 {
     using System;
     using AnimalFarm.Models;
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

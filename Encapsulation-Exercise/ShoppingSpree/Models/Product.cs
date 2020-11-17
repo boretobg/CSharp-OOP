@@ -2,18 +2,19 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ShoppingSpree
+namespace ShoppingSpree.Models
 {
     public class Product
     {
         private string name;
-        private double cost;
+        private decimal cost;
 
-        public Product(string name, double cost)
+        public Product(string name, decimal cost)
         {
-            this.Name = name;
-            this.Cost = cost;
+            Name = name;
+            Cost = cost;
         }
+
         public string Name
         {
             get
@@ -22,16 +23,16 @@ namespace ShoppingSpree
             }
             private set
             {
-                if (string.IsNullOrEmpty(value))
+                if (String.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentException(Constants.EmptyStringException);
+                    throw new Exception("Name cannot be empty");
                 }
 
                 this.name = value;
             }
         }
 
-        public double Cost
+        public decimal Cost
         {
             get
             {
@@ -41,13 +42,11 @@ namespace ShoppingSpree
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException(Constants.NoMoneyException);
+                    throw new Exception("Money cannot be negative");
                 }
 
-                this.cost = value;
+                this.cost = value;  
             }
         }
-       
     }
 }
-

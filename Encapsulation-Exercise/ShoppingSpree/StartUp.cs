@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ShoppingSpree.Core;
+using System;
 
 namespace ShoppingSpree
 {
@@ -7,7 +8,7 @@ namespace ShoppingSpree
         public static void Main(string[] args)
         {
             Engine engine = new Engine();
-            engine.Buying();
+            engine.Start();
         }
     }
 }
