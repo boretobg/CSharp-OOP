@@ -7,25 +7,6 @@ namespace Stealer
 {
     public class Spy
     {
-        public string RevealPrivateMethods(string className)
-        {
-            Type classType = Type.GetType(className);
-            var classMethods = classType.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance);
-
-            StringBuilder stringBuilder = new StringBuilder();
-
-            stringBuilder.AppendLine($"All Private Methods of Class: {className}");
-            stringBuilder.AppendLine($"Base Class: {classType.BaseType.Name}");
-
-
-            foreach (var method in classMethods)
-            {
-                stringBuilder.AppendLine(method.Name);
-            }
-
-            return stringBuilder.ToString().Trim();
-        }
-
         public string AnalyzeAcessModifiers(string investigatedClass)
         {
             Type classType = Type.GetType(investigatedClass); 

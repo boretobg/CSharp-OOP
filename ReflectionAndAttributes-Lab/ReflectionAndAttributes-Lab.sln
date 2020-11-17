@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighQualityMistakes", "HighQualityMistakes\HighQualityMistakes.csproj", "{3C8B2244-35AB-441A-8124-D48114C8D5C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissionPrivateImpossible", "MissionPrivateImpossible\MissionPrivateImpossible.csproj", "{5D2BD62D-F913-47D7-85C0-4EF8700DE5AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3C8B2244-35AB-441A-8124-D48114C8D5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C8B2244-35AB-441A-8124-D48114C8D5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C8B2244-35AB-441A-8124-D48114C8D5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2BD62D-F913-47D7-85C0-4EF8700DE5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2BD62D-F913-47D7-85C0-4EF8700DE5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2BD62D-F913-47D7-85C0-4EF8700DE5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2BD62D-F913-47D7-85C0-4EF8700DE5AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
