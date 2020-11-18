@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.genruntimeconfig.cache

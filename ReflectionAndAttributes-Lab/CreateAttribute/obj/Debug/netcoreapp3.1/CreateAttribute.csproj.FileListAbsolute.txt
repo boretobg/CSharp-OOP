@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\bin\Debug\netcoreapp3.1\CreateAttribute.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\CreateAttribute\obj\Debug\netcoreapp3.1\CreateAttribute.csprojAssemblyReference.cache

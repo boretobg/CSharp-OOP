@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\bin\Debug\netcoreapp3.1\Collector.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflectionAndAttributes-Lab\Collector\obj\Debug\netcoreapp3.1\Collector.genruntimeconfig.cache
