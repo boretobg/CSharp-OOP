@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\ReflecionAndAttributes-Exercise\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
