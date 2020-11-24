@@ -1,0 +1,8 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
