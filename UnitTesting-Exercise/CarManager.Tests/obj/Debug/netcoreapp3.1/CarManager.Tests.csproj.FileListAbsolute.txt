@@ -93,3 +93,5 @@ C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager.
 C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
 C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
 C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb

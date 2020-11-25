@@ -1,0 +1,9 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\UnitTesting-Exercise\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
