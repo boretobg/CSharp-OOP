@@ -1,11 +1,14 @@
 ﻿using INStock.Contracts;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace INStock
 {
     public class ProductStock : IProductStock
     {
-        public IProduct this[int index] { get; set; }
+        public IProduct this[int index] { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+
+        IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
 
         public void Add(IProduct product)
         {
@@ -53,6 +56,11 @@ namespace INStock
         }
 
         public List<IProduct> GetEnumerator<Product>()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public IEnumerator<IProduct> GetEnumerator()
         {
             throw new System.NotImplementedException();
         }

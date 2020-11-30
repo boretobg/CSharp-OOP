@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace INStock.Contracts
 {
-    public interface IProductStock
+    public interface IProductStock : IEnumerable<IProduct>
     {
         IProduct this[int index] { get; set; }
         void Add(IProduct product);
