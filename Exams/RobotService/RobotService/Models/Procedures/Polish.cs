@@ -8,6 +8,11 @@ namespace RobotService.Models.Procedures
         private CheckProcedureTime checkProcedureTime;
         private int RemoveHapinessPoints = 7;
 
+        public Polish()
+        {
+            this.checkProcedureTime = new CheckProcedureTime();
+        }
+
         public override void DoService(IRobot robot, int procedureTime)
         {
             checkProcedureTime.CheckProcedureTimeMethod(robot, procedureTime);

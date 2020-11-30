@@ -8,7 +8,7 @@ namespace RobotService.Models.Procedures
 {
     public abstract class Procedure : IProcedure
     {
-        protected ICollection<IRobot> robots;
+        public ICollection<IRobot> robots;
 
         public Procedure()
         {

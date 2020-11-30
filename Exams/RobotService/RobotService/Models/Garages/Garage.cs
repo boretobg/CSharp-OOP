@@ -1,4 +1,5 @@
 ﻿using RobotService.Models.Garages.Contracts;
+using RobotService.Models.Robots;
 using RobotService.Models.Robots.Contracts;
 using RobotService.Utilities.Messages;
 using System;
@@ -9,13 +10,17 @@ namespace RobotService.Models.Garages
 {
     public class Garage : IGarage
     {
-        protected IDictionary<string, IRobot> robots;
+        private IList<IRobot> allRobots;
+        private IDictionary<string, IRobot> robots;
+
         public Garage()
         {
-
+            this.robots = new Dictionary<string, IRobot>();
+            this.allRobots = new List<IRobot>();
         }
 
         public IReadOnlyDictionary<string, IRobot> Robots => (IReadOnlyDictionary<string, IRobot>)robots;
+        public IList<IRobot> AllRobots => (IList<IRobot>)allRobots;
 
         public int Capacity = 10;
 
@@ -32,6 +37,10 @@ namespace RobotService.Models.Garages
             }
 
             this.robots.Add(robot.Name, robot);
+            if (!AllRobots.Contains(robot))
+            {
+                this.AllRobots.Add(robot);
+            }
             Capacity--;
         }
 

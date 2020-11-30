@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\RobotService\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache

@@ -9,6 +9,11 @@ namespace RobotService.Models.Procedures
         private int RemoveHapinessPoints = 3;
         private int AddEnergyPoints = 10;
 
+        public Rest()
+        {
+            this.checkProcedureTime = new CheckProcedureTime();
+        }
+
         public override void DoService(IRobot robot, int procedureTime)
         {
             checkProcedureTime.CheckProcedureTimeMethod(robot, procedureTime);

@@ -9,6 +9,11 @@ namespace RobotService.Models.Procedures
     {
         private CheckProcedureTime checkProcedureTime;
         private int HappinessValueToRemove = 5;
+
+        public Chip()
+        {
+            this.checkProcedureTime = new CheckProcedureTime();
+        }
         public override void DoService(IRobot robot, int procedureTime)
         {
             checkProcedureTime.CheckProcedureTimeMethod(robot, procedureTime);
