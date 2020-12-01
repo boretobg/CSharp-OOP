@@ -1,4 +1,5 @@
-﻿namespace CounterStrike.Utilities.Messages
+﻿
+namespace CounterStrike.Utilities.Messages
 {
     public static class ExceptionMessages
     {

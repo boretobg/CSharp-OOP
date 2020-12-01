@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.genruntimeconfig.cache

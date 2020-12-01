@@ -2,6 +2,8 @@
 {
     using CounterStrike.Core;
     using CounterStrike.Core.Contracts;
+    using CounterStrike.Models.Guns;
+    using CounterStrike.Models.Players;
 
     public class StartUp
     {
