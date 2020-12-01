@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exams\CounterStrike\Robots\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
