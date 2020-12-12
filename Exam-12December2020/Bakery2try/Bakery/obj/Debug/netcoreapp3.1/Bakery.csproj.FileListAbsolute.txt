@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Bobby\source\repos\boretobg\CSharp-OOP\Exam-12December2020\Bakery2try\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
